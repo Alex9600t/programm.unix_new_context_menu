@@ -1,0 +1,10 @@
+{
+    "context_menu": {
+        "create_file_conmen": {
+            "id": "1",
+            "depiction": "Create new file",
+            "info": "Create new file",
+            "command": "cat > filename.txt"
+        }
+    }
+}
